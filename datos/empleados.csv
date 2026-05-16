@@ -1,0 +1,15 @@
+S,EMP1001,Ana Pérez López,1985-03-15,Av. Reforma 100,ana.perez@gfs.mx,5551001001,18000,Analista,Recursos Humanos,2021-01-10,Domingo,STIDC
+S,EMP1002,Carlos Ruiz Mendoza,1990-07-22,Calle Juárez 45,carlos.ruiz@gfs.mx,5551001002,20000,Técnico,Sistemas,2020-03-01,Sábado,STIDC
+S,EMP1003,Lucía Martínez Torres,1988-11-30,Blvd. Insurgentes 200,lucia.m@gfs.mx,5551001003,17500,Auxiliar,Contabilidad,2019-06-15,Domingo,SUTERM
+S,EMP1004,Roberto Sánchez Vega,1992-05-08,Col. Centro 33,roberto.s@gfs.mx,5551001004,16000,Operador,Producción,2022-08-20,Sábado,SUTERM
+S,EMP1005,Patricia Flores Díaz,1987-09-12,Av. Universidad 55,patricia.f@gfs.mx,5551001005,19000,Coordinador,Logística,2018-02-28,Domingo,CTM
+C,EMP1006,Miguel Ángel Ramos,1980-04-01,Periferico Sur 780,miguel.r@gfs.mx,5552001001,45000,Gerente,Sistemas,2015-05-01,Sábado,senior,completa
+C,EMP1007,Sandra López Cruz,1983-08-17,Av. Constitución 120,sandra.l@gfs.mx,5552001002,38000,Subgerente,Recursos Humanos,2017-09-01,Domingo,senior,completa
+C,EMP1008,Eduardo Torres Ríos,1975-12-05,Col. Polanco 44,eduardo.t@gfs.mx,5552001003,65000,Director,Finanzas,2010-11-15,Sábado,directivo,completa
+C,EMP1009,Diana Herrera Mora,1991-02-14,Insurgentes Norte 900,diana.h@gfs.mx,5552001004,28000,Analista Senior,Marketing,2022-07-01,Domingo,junior,completa
+C,EMP1010,Fernando Castro León,1986-06-28,Av. Chapultepec 67,fernando.c@gfs.mx,5552001005,32000,Especialista,Operaciones,2021-03-15,Sábado,senior,medio_tiempo
+T,EMP1011,Valeria Mendoza Soto,1995-10-20,Calle Morelos 15,valeria.m@gfs.mx,5553001001,14000,Asistente,Administración,2024-10-01,Domingo,temporada,2024-10-01,2025-04-30
+T,EMP1012,Javier Ortiz Palacios,1993-03-11,Col. Roma 200,javier.o@gfs.mx,5553001002,13500,Auxiliar,Contabilidad,2024-01-15,Sábado,interinato,2024-01-15,2025-01-14
+T,EMP1013,Karla Vázquez Reyes,1997-07-04,Av. Tlalpan 340,karla.v@gfs.mx,5553001003,15000,Técnico,Sistemas,2023-06-01,Domingo,obra,2023-06-01,2025-05-31
+T,EMP1014,Andrés Morales Fuentes,1994-11-25,Blvd. Manuel Ávila 10,andres.m@gfs.mx,5553001004,13000,Operador,Producción,2024-05-01,Sábado,temporada,2024-05-01,2025-04-30
+T,EMP1015,Sofía Gutiérrez Ramírez,1996-08-16,Col. Del Valle 88,sofia.g@gfs.mx,5553001005,14500,Asistente,Logística,2023-09-01,Domingo,interinato,2023-09-01,2025-08-31
